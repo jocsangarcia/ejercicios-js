@@ -1,0 +1,17 @@
+.imagen{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
+.caja{
+
+    
+    height: auto;
+    width: 100px;
+    margin-top: 25px;
+}
+
+
+
